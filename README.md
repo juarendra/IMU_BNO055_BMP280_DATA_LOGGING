@@ -15,13 +15,13 @@
 ## Preview Hardware
 <p align="center">
 
-  <img src="DOC/HARDWARE/hw1" width="75%" height="75%">
-  <img src="DOC/HARDWARE/hw2" width="75%" height="75%">
-  <img src="DOC/HARDWARE/hw3" width="75%" height="75%">
-  <img src="DOC/HARDWARE/hw4" width="75%" height="75%">
-  <img src="DOC/HARDWARE/hw5" width="75%" height="75%">
-  <img src="DOC/HARDWARE/hw6" width="75%" height="75%">
-  <img src="DOC/HARDWARE/hw7" width="75%" height="75%">
-  <img src="DOC/HARDWARE/hw8" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw1.png" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw2.png" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw3.png" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw4.png" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw5.png" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw6.png" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw7.png" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw8.png" width="75%" height="75%">
 
 </p>
