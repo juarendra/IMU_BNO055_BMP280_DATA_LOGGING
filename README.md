@@ -8,19 +8,20 @@
 - BMP280
 - OLED DISPLAY
 - I2C expander for Button
-- modul charger tp4056
-- switch on off
+- Modul charger tp4056 for Charger Lipo Batt
+- Switch On OFF
+- SD Card as save Data Loging
 
 ## Preview Hardware
 <p align="center">
 
-  <img src="DOC/hw1" width="75%" height="75%">
-  <img src="DOC/hw2" width="75%" height="75%">
-  <img src="DOC/hw3" width="75%" height="75%">
-  <img src="DOC/hw4" width="75%" height="75%">
-  <img src="DOC/hw5" width="75%" height="75%">
-  <img src="DOC/hw6" width="75%" height="75%">
-  <img src="DOC/hw7" width="75%" height="75%">
-  <img src="DOC/hw8" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw1" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw2" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw3" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw4" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw5" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw6" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw7" width="75%" height="75%">
+  <img src="DOC/HARDWARE/hw8" width="75%" height="75%">
 
 </p>
