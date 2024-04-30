@@ -25,3 +25,10 @@
   <img src="DOC/HARDWARE/hw8.png" width="75%" height="75%">
 
 </p>
+
+## USAGE 
+- First you need to order or print the PCB based the gerber file on [this folder]()
+- there are two PCB File, first is the MAIN Board and second is the UI with OLED and Button
+- you need to print all PCB file to your favorite Manufacture PCB.
+- then you can order all component based the BOM LIST file on [this folder].
+- after All PCBs and All Component are receive, you can start the assembly 
