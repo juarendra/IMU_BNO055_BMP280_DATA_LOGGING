@@ -32,4 +32,4 @@
 - you need to print all PCB file to your favorite Manufacture PCB.
 - then you can order all component based the BOM LIST file on [this folder](https://github.com/juarendra/IMU_BNO055_BMP280_DATA_LOGGING/tree/main/BOM).
 - after All PCBs and All Component are receive, you can start the assembly 
-- Then Print Case on [this Folder]() with your 3D print
+- Then Print Case on [this Folder](https://github.com/juarendra/IMU_BNO055_BMP280_DATA_LOGGING/tree/main/CASE) with your 3D print
