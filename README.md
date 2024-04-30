@@ -27,8 +27,8 @@
 </p>
 
 ## USAGE 
-- First you need to order or print the PCB based the gerber file on [this folder]()
+- First you need to order or print the PCB based the gerber file on [this folder](https://github.com/juarendra/IMU_BNO055_BMP280_DATA_LOGGING/tree/main/GERBER)
 - there are two PCB File, first is the MAIN Board and second is the UI with OLED and Button
 - you need to print all PCB file to your favorite Manufacture PCB.
-- then you can order all component based the BOM LIST file on [this folder].
+- then you can order all component based the BOM LIST file on [this folder](https://github.com/juarendra/IMU_BNO055_BMP280_DATA_LOGGING/tree/main/BOM).
 - after All PCBs and All Component are receive, you can start the assembly 
