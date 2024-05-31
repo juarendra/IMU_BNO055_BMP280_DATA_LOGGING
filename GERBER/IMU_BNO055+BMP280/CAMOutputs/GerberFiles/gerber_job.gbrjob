@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-05-31T09:47:17Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "IMU_BNO055+BMP280"
+        },
+        "Owner": "juarendra ramadhani <jrjuarendra@gmail.com>",
+        "Size": {
+            "X": 59.817,
+            "Y": 35.56
+        }
+    }
+}
